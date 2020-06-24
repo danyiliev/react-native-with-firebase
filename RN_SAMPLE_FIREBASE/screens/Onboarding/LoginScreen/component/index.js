@@ -1,0 +1,1 @@
+export { default as SignupIndicator } from './SignupIndicator';

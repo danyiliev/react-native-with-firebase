@@ -1,0 +1,1 @@
+export const getRouteParams = ({ index, routes }) => routes[index].params;
